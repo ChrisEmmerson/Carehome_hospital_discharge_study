@@ -1,5 +1,5 @@
 # Carehome_hospital_discharge_study
-This repository contains the R code used to analyse data for the study led by PHW into care home discharges and COVID outbreaks. The study is entitled: 'Risk factors for outbreaks of COVID-19 in care homes following hospital discharge: a national cohort analysis' The study has been submitted for peer-review. A pre-print of the study is available from MedRvix here: https://www.medrxiv.org/content/10.1101/2020.08.24.20168955v1 
+This repository contains the R code used to analyse data for the study led by PHW into care home discharges and COVID outbreaks. The study is entitled: 'Risk factors for outbreaks of COVID-19 in care homes following hospital discharge: a national cohort analysis' and was peer-reviewed and accepted for publication by Influenza and Other Respiratory Viruses. THe final text is available open access at https://onlinelibrary.wiley.com/doi/10.1111/irv.12831  
 
 The study was carried out within Public Health Wales with the support of Swansea University Medical School. 
 
